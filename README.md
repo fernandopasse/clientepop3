@@ -1,4 +1,2 @@
-# clientepop3
-Cliente POP3
-
+# Cliente POP3 em Java
 Cliente Feito utilizando Java.
